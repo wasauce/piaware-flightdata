@@ -86,7 +86,7 @@ The full `clean` data following the above format is available in the [clean dire
 
 ## See the data on a map using Kepler.gl:
 
-![Flights_Around_Potrero_Hill_Aug_Sept_2019.gif](/Users/wferrell/Downloads/Flights_Around_Potrero_Hill_Aug_Sept_2019.gif)
+![Flights_Around_Potrero_Hill_Aug_Sept_2019.gif](https://github.com/wasauce/piaware-flightdata/blob/master/Flights_Around_Potrero_Hill_Aug_Sept_2019.gif)
 
 Full video: [https://www.youtube.com/watch?v=4uYzdsCbLXQ](https://www.youtube.com/watch?v=4uYzdsCbLXQ)
 
