@@ -16,7 +16,27 @@ A quick look at the setup:
 
 
 
-## FlightAware & PiAware don't make it easy for you to keep a copy of all the flight data you capture.
+---
+
+## The Data
+
+FlightAware & PiAware don't make it easy for you to keep a copy of all the flight data captured with your receiver. I wrote a little script to fetch the data every 10 seconds.
+
+A single example files can be found here:
+
+[`1567969448.9--DAL1390--a4366a51-6d59-48dc-b53c-1906202a7992.json`]([https://github.com/wasauce/piaware-flightdata/blob/master/1567969448.9--DAL1390--a4366a51-6d59-48dc-b53c-1906202a7992.json](https://github.com/wasauce/piaware-flightdata/blob/master/1567969448.9--DAL1390--a4366a51-6d59-48dc-b53c-1906202a7992.json))
+
+I've included the key information in the filename
+
+`1567969448.9` is the UTC timestamp of when the data was gathered
+
+`DAL1390` is the flight information (Airline + flight number)
+
+`a4366a51-6d59-48dc-b53c-1906202a7992` is just a random UUID I appended.
+
+
+
+Take a look at what you will find inside the JSON file here:
 
 ```json
 {
@@ -55,3 +75,21 @@ A quick look at the setup:
   "timeutc": "2019/09/08 19:04"
 }
 ```
+
+The full `clean` data following the above format is available in the [clean directory](https://github.com/wasauce/piaware-flightdata/tree/master/clean)
+
+
+
+---
+
+# Visualizing Flights around Potrero Hill, San Francisco, CA
+
+## See the data on a map using Kepler.gl:
+
+
+
+[Click to play with the data in Kepler]([https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/pqvrvdi9bpe92vt/keplergl_spv7qf.json](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/pqvrvdi9bpe92vt/keplergl_spv7qf.json)) (data pre-loaded)
+
+
+
+
