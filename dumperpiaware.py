@@ -17,6 +17,6 @@ def main():
 
 if __name__ == "__main__":
     """
-    Run this script on your raspberrypi
+    Run this script locally on your raspberrypi where you are running the PiAware software
     """
     main()
