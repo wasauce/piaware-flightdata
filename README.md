@@ -12,7 +12,7 @@ https://flightaware.com/adsb/stats/user/wasauce#stats-106041
 
 A quick look at the setup:
 
-![piNooElec.png](/Users/wferrell/Documents/piNooElec.png)
+![piNooElec.png](https://github.com/wasauce/piaware-flightdata/blob/master/piNooElec.png)
 
 
 
