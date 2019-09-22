@@ -90,4 +90,4 @@ The full `clean` data following the above format is available in the [clean dire
 
 Full video: [https://www.youtube.com/watch?v=4uYzdsCbLXQ](https://www.youtube.com/watch?v=4uYzdsCbLXQ)
 
-## [Click to play with the data in Kepler]([https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/pqvrvdi9bpe92vt/keplergl_spv7qf.json](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/pqvrvdi9bpe92vt/keplergl_spv7qf.json)
+## [Click to play with the data in Kepler](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/pqvrvdi9bpe92vt/keplergl_spv7qf.json)
